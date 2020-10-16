@@ -1,0 +1,36 @@
+POST http://localhost:8080/vehicle
+Content-Type: application/json
+
+{
+  "vehicleName": "Volvo",
+  "vehicleType": "Car"
+}
+
+###
+POST http://localhost:8080/vehicle
+Content-Type: application/json
+
+{
+  "vehicleName": "Volvo",
+  "vehicleType": "Bus"
+}
+
+###
+POST http://localhost:8080/vehicle
+Content-Type: application/json
+
+{
+  "vehicleName": "Volvo",
+  "vehicleType": "Truck"
+}
+
+###
+POST http://localhost:8080/vehicle
+Content-Type: application/json
+
+{
+  "vehicleName": "Volvo",
+  "vehicleType": "Bike"
+}
+
+###
